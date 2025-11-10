@@ -1,0 +1,13 @@
+{
+    "title_original": "Baa, baa, black sheep",
+    "title_translation": "Барашек",
+    "author": "English Nursery Rhyme",
+    "translator": "Самуил Маршак",
+    "original": "Baa, baa, black sheep,\nHave you any wool?\nYes, marry, have I,\nThree bags full;\nOne for my master,\nAnd one for my dame,\nAnd one for the little boy\nWho lives in the lane.",
+    "translation": "— Ты скажи, барашек наш,\nСколько шерсти ты нам дашь?\n— Не стриги меня пока.\nДам я шерсти три мешка:\nОдин мешок — хозяину,\nДругой мешок — хозяйке,\nА третий — детям маленьким\nНа тёплые фуфайки.",
+    "rhyme_scheme": "AABBCCDD",
+    "meter": "четырёхстопный хорей с вариациями",
+    "devices": ["диалог", "повтор", "рифма", "детская песенка", "уменьшительно-ласкательные формы"],
+    "comment": "В переводе Маршака сохраняется структура и добродушие оригинальной английской песенки. Переводчик делает текст более живым и разговорным, вводя диалог и бытовые детали («тёплые фуфайки»), что делает стих ближе русскому ребёнку по духу и образности."
+  }
+  

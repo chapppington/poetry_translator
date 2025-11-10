@@ -1,0 +1,10 @@
+{
+    "translator": "Самуил Маршак",
+    "original": "Whose woods these are I think I know.\nHis house is in the village though;\nHe will not see me stopping here\nTo watch his woods fill up with snow.",
+    "translation": "Я знаю: чей это лес густой.\nНо дом его в деревне той —\nОн не увидит, как стою\nИ снег смотрю в лесу ночном.",
+    "author": "Robert Frost",
+    "rhyme_scheme": "AABA",
+    "meter": "ямб, 4 стопы",
+    "devices": ["инверсия", "олицетворение", "пауза"],
+    "comment": "Маршак сохраняет внутреннюю музыку стиха и спокойствие зимнего пейзажа, передавая простоту речи Фроста."
+  }

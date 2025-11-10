@@ -1,0 +1,12 @@
+{
+    "title_original": "Traveller",
+    "title_translation": "В гостях у королевы",
+    "author": "English Nursery Rhyme",
+    "translator": "Самуил Маршак",
+    "original": "Pussy-cat, pussy-cat,\nWhere have you been?\nI’ve been to London\nTo look at the Queen.\nPussy-cat, pussy-cat,\nWhat did you do there?\nI frightened a little mouse\nUnder her chair.",
+    "translation": "- Где ты была сегодня, киска?\n- У королевы у английской.\n- Что ты видала при дворе?\n- Видала мышку на ковре.",
+    "rhyme_scheme": "AABB",
+    "meter": "четырёхстопный ямб",
+    "devices": ["рифма", "повтор", "диалог", "игра слов", "ритм"],
+    "comment": "Маршак передает детскую игривость стихотворения через диалог, сохраняет простую рифмовку и ритм, адаптируя текст для русскоязычного детского восприятия. Повторение 'киска' и вопросно-ответная форма создают живое звучание."
+}
