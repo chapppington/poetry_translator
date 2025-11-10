@@ -1,4 +1,4 @@
-# Poetry Translator with Ollama Gemma3 12B
+# Poetry Translator with Ollama
 
 ## Установка и запуск
 
